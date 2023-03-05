@@ -26,12 +26,6 @@ sdsds
 hr
 
 
-
-chao ban
-
 hello
 
 sua tren nhanh C
-
-sua tren main
-
