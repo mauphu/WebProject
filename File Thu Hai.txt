@@ -6,3 +6,6 @@ hello
 noi dung may tinh 2 
 
  hom nay hoc rat vui
+
+
+buoi hoc gui cua git
