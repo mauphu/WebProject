@@ -2,4 +2,4 @@
 noi dung cua may tinh 2
 
 noi dung cua may tinh 1
-
+sua file tren main
