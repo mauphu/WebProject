@@ -31,3 +31,5 @@ hello
 sua tren nhanh C
 
 sua tren nhanh c source
+
+sua tren nhanh D
