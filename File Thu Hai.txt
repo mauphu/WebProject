@@ -13,3 +13,6 @@ buoi hoc gui cua git
 buoi hoc gui tren git
 
 sua tren git hom nay
+
+
+them xoa sua tren git
